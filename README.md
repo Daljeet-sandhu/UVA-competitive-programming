@@ -2,4 +2,4 @@
 
 Online Judge UVA Competitive Programming
 
-![Alt text](Screenshot1.png)
+![Alt text](screenshot1.png)
